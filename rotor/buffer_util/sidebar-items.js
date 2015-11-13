@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["find_substr","Finds subslice in a slice of a buffer. It's included here as a means of fastest known implementation of the thing."]]});
